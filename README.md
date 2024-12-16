@@ -10,7 +10,7 @@ git clone https://github.com/warike/next-clerk.git
 ### Navigate to the project directory
 
 ```bash
-cd next-authkit
+cd next-clerk
 ```
 
 ### Install dependencies
